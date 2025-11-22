@@ -4,12 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "example/**"
-      - "src/**"
-      - "package.json"
-      - "tsconfig.json"
-      - "tsup.config.ts"
   workflow_dispatch:
 
 permissions:

@@ -2,8 +2,6 @@
 
 서울시 25개 행정구 아이콘을 React 컴포넌트로 제공하는 라이브러리입니다.
 
-🎨 **[라이브 데모 보기](https://myriky.github.io/apt-today-seoul-icons/)**
-
 ## 설치
 
 ```bash
